@@ -1,3 +1,8 @@
+/*
+Este programa fue creado por gabriel rivas 
+si lo copias recuerda borrar este cacho o cambiarle el nombre jejej
+*/
+
 #include <stdio.h>
 #include <math.h>
 #define p printf
@@ -122,7 +127,7 @@ int main() {
         }
         p("\n");
     }
-    p("\nLa calificacion m·s alta es %.2f y se encuentra en la posicion [%d][%d].\n", calMA, f+1, c+1);
+    p("\nLa calificacion m√°s alta es %.2f y se encuentra en la posicion [%d][%d].\n", calMA, f+1, c+1);
     return 0;
 }
 */
